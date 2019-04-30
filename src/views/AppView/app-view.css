@@ -1,0 +1,10 @@
+ul {
+  list-style: none;
+}
+
+ul li {
+  display: block;
+  margin: 10px;
+  background-color: rgb(177, 255, 249);
+  border-radius: 10px;
+}
