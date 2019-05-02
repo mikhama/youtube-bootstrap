@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppView.render Should render correctly 1`] = `"<ul><li>Video about JS</li><li>Another video about JS</li><li>Undefined video</li></ul>"`;
